@@ -204,3 +204,4 @@ if(__name__ == '__main__'):
         print(y)#print(y,end=' ')
         tree.insert(y, str(y))
         print(tree)
+print("oi")
